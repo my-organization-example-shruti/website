@@ -2,6 +2,4 @@
 
 THIS IS MY FIRST WEBSITE.
 
-> again a change
-
-updated locally...
+changes before rebase
