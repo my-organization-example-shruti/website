@@ -9,3 +9,8 @@ HI
 
 
 editing again...
+
+
+## getting started
+
+To get started with this project
